@@ -1,4 +1,4 @@
-package br.com.alura.reserva_salas.exception;
+package br.com.alura.reserva_salas.infra.exception;
 
 public class RecursoNaoEncontradoException extends RuntimeException {
 

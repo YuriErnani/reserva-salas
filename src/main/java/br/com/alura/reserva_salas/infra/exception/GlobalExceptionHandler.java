@@ -1,4 +1,4 @@
-package br.com.alura.reserva_salas.exception;
+package br.com.alura.reserva_salas.infra.exception;
 
 import br.com.alura.reserva_salas.dto.erroDTO.CampoErroDTO;
 import br.com.alura.reserva_salas.dto.erroDTO.ErroResponseDTO;

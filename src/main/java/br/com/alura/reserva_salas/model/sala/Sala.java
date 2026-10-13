@@ -1,6 +1,6 @@
 package br.com.alura.reserva_salas.model.sala;
 
-import br.com.alura.reserva_salas.exception.RegraDeNegocioException;
+import br.com.alura.reserva_salas.infra.exception.RegraDeNegocioException;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;

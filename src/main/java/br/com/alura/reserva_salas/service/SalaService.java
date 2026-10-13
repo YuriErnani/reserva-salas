@@ -2,7 +2,7 @@ package br.com.alura.reserva_salas.service;
 
 import br.com.alura.reserva_salas.dto.salaDTO.SalaRequestDTO;
 import br.com.alura.reserva_salas.dto.salaDTO.SalaResponseDTO;
-import br.com.alura.reserva_salas.exception.RecursoNaoEncontradoException;
+import br.com.alura.reserva_salas.infra.exception.RecursoNaoEncontradoException;
 import br.com.alura.reserva_salas.model.sala.Sala;
 import br.com.alura.reserva_salas.repository.SalaRepository;
 import jakarta.transaction.Transactional;
